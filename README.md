@@ -1,0 +1,1 @@
+Creates digest in MD5 or SHA1 for entered phrase
